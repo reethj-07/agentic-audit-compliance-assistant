@@ -1,0 +1,4 @@
+Access to production systems is restricted.
+However, dual approval is not enforced for database changes.
+System logs are retained for 30 days.
+Monitoring is partially implemented.
